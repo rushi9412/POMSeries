@@ -39,7 +39,7 @@ public class LoginPage {
 	// 2 public page actions-method(features or functinality)
 	// all method by in public
 
-	@Step("getLoginPageTitle")
+	@Step("get Login Page Title")
 	public String getLoginPageTitle() {
 		
 		String title = eleUtil.waitForTitlecontains(AppConstants.LOGIN_PAGE_TITLE, AppConstants.DEFAULT_TIME_OUT);
