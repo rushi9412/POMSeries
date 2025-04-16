@@ -2,7 +2,7 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
 
-<suite name="TestNG Regression Suite" verbose="3" parallel="tests" thread-count="3" >
+<suite name="TestNG Sanity Suite" verbose="4" parallel="tests" thread-count="2" >
 <!--versobe-means level of log need to generate from 0 to 10 -->
 <!--parallel mode feature by testng  and thread-count means worker-->
 
@@ -17,15 +17,6 @@
 	</listeners>
 
 
-
-
-	<test name="Home Page Test">
-	<parameter name="browser" value="chrome" />
-	
-		<classes>
-			<class name="com.qa.opencart.tests.HomePageTest" />
-		</classes>
-	</test>
 	<test name="Login Page Test">
 	<parameter name="browser" value="firefox" />
 	
@@ -33,13 +24,7 @@
 			<class name="com.qa.opencart.tests.LoginPageTest"/>
 		</classes>
 	</test>
-	<test name="Product Info Page Test">
-	<parameter name="browser" value="edge" />
 	
-		<classes>
-			<class name="com.qa.opencart.tests.ProductinfoPageTest" />
-		</classes>
-	</test>
 	
 	
 
