@@ -89,3 +89,33 @@
 2025-04-17 12:57:53 INFO  DriverFactory:50 - browser name is: firefox
 2025-04-17 12:57:53 INFO  DriverFactory:50 - browser name is: chrome
 2025-04-17 12:57:53 INFO  DriverFactory:50 - browser name is: chrome
+2025-04-17 15:17:27 WARN  DriverFactory:193 - no env is passed, hence running test suite on qa env..
+2025-04-17 15:17:27 WARN  DriverFactory:193 - no env is passed, hence running test suite on qa env..
+2025-04-17 15:17:27 WARN  DriverFactory:193 - no env is passed, hence running test suite on qa env..
+2025-04-17 15:17:27 INFO  DriverFactory:50 - browser name is: chrome
+2025-04-17 15:17:27 INFO  DriverFactory:50 - browser name is: firefox
+2025-04-17 15:17:27 INFO  DriverFactory:50 - browser name is: chrome
+2025-04-17 15:25:25 WARN  DriverFactory:193 - no env is passed, hence running test suite on qa env..
+2025-04-17 15:25:25 WARN  DriverFactory:193 - no env is passed, hence running test suite on qa env..
+2025-04-17 15:25:25 WARN  DriverFactory:193 - no env is passed, hence running test suite on qa env..
+2025-04-17 15:25:25 INFO  DriverFactory:50 - browser name is: chrome
+2025-04-17 15:25:25 INFO  DriverFactory:50 - browser name is: firefox
+2025-04-17 15:25:25 INFO  DriverFactory:50 - browser name is: chrome
+2025-04-17 15:27:59 WARN  DriverFactory:193 - no env is passed, hence running test suite on qa env..
+2025-04-17 15:27:59 WARN  DriverFactory:193 - no env is passed, hence running test suite on qa env..
+2025-04-17 15:27:59 WARN  DriverFactory:193 - no env is passed, hence running test suite on qa env..
+2025-04-17 15:27:59 INFO  DriverFactory:50 - browser name is: firefox
+2025-04-17 15:27:59 INFO  DriverFactory:50 - browser name is: chrome
+2025-04-17 15:27:59 INFO  DriverFactory:50 - browser name is: chrome
+2025-04-17 15:34:03 WARN  DriverFactory:193 - no env is passed, hence running test suite on qa env..
+2025-04-17 15:34:03 WARN  DriverFactory:193 - no env is passed, hence running test suite on qa env..
+2025-04-17 15:34:03 WARN  DriverFactory:193 - no env is passed, hence running test suite on qa env..
+2025-04-17 15:34:03 INFO  DriverFactory:50 - browser name is: chrome
+2025-04-17 15:34:03 INFO  DriverFactory:50 - browser name is: firefox
+2025-04-17 15:34:03 INFO  DriverFactory:50 - browser name is: chrome
+2025-04-17 15:36:45 WARN  DriverFactory:193 - no env is passed, hence running test suite on qa env..
+2025-04-17 15:36:45 WARN  DriverFactory:193 - no env is passed, hence running test suite on qa env..
+2025-04-17 15:36:45 WARN  DriverFactory:193 - no env is passed, hence running test suite on qa env..
+2025-04-17 15:36:45 INFO  DriverFactory:50 - browser name is: firefox
+2025-04-17 15:36:45 INFO  DriverFactory:50 - browser name is: chrome
+2025-04-17 15:36:45 INFO  DriverFactory:50 - browser name is: chrome
